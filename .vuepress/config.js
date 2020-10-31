@@ -7,7 +7,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'zh-cn',
-            title: '高中信息技术'
+            title: '高中信息技术',
             description: '高中信息技术学习资料(适用于江苏省常熟市中学)'
         },
     },
