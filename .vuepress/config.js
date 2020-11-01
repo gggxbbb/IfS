@@ -4,6 +4,9 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
+    plugins: [
+    'flowchart'
+    ],
     locales: {
         '/': {
             lang: 'zh-cn',
