@@ -1,4 +1,3 @@
-
 ---
 home: true
 heroText: IfS
@@ -10,5 +9,6 @@ features:
   details: 内容根据资料及实践编写，符合书本内容和实际情况。
 footer: Copyright © 2020-persent gggxbbb
 ---
+
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gggxbbb/IfS)
