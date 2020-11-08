@@ -7,5 +7,8 @@
     "docs:dev": "vuepress dev .",
     "docs:build": "vuepress build ."
   },
-  "dependencies": {}
+  "dependencies": {
+    "vuepress-theme-antdocs": "^1.2.0",
+    "vuepress-theme-reco": "^1.5.7"
+  }
 }

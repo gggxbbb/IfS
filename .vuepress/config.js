@@ -1,6 +1,7 @@
 module.exports = {
     title: 'IfS',
     description: 'Information Technology for Senior High',
+    theme: 'antdocs',
     markdown: {
         lineNumbers: true
     },
@@ -19,6 +20,7 @@ module.exports = {
         repo: 'gggxbbb/IfS',
         editLinks: true,
         smoothScroll: true,
+        author: 'gggxbbb',
         locales: {
             '/': {
                 selectText: '选择语言',
